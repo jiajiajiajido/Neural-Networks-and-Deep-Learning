@@ -1,5 +1,5 @@
 # Neural-Networks-and-Deep-Learning
-1.训练：运行trainmynet.py，可根据设定好的参数训练并保存一个模型。
+1.训练：运行trainmynet.py（第一次运行会下载MNIST数据集），可根据设定好的参数训练并保存一个模型。
 
 2.调参：运行hyperparameter.py，可以根据不同超参数组合训练一批模型并保存，同时绘制精度最高的前20个模型的loss和acc曲线
 
